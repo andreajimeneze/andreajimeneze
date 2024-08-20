@@ -1,5 +1,3 @@
-﻿# andreajimeneze
-
 <h1 align="center">Hola, mi nombre es Andrea Jiménez</h1>
 <h2 align="center">En vías de convertirme en desarrolladora FullsTack</h2>
 <h3 align="center">Siempre aprendiendo!!!</h3>
